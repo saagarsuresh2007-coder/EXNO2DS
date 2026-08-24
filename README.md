@@ -1,4 +1,4 @@
-<img width="276" height="87" alt="image" src="https://github.com/user-attachments/assets/7876bf95-5bd4-4683-974a-49eea159c42c" /><img width="276" height="87" alt="image" src="https://github.com/user-attachments/assets/87717427-9415-4b15-b7fd-59698d37a4cb" /># EXNO2DS
+# EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
