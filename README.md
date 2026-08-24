@@ -40,4 +40,5 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 <img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/32fc4545-818e-4f41-a7da-d63f2c512047" />
 <img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/e024150c-0559-4fc5-a7a4-644895ff08b9" />
 
-
+# RESULT
+        Thus, the dataset was successfully cleaned, analyzed, and visualized using various EDA techniques.
